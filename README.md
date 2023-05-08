@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **Kubernetes ,Prometheus and Grafana by applying on projects**
 
-- 💬 Ask me about **Cloud & DevOps**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **msukrualevgr@gmail.com**
 
