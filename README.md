@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **DevOps Projects**
 
-- 🌱 Currently learning **Kubernetes ,Prometheus and Grafana by applying on projects**
+- 🌱 Currently i am occupying **Kubernetes ,Prometheus and Grafana**
 
 - 💬 Ask me about **DevOps**
 
