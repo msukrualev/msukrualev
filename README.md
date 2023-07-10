@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **DevOps Projects**
 
-- 🌱 Currently i'm occupying on **BlueRentalCars-Project**
+- 🌱 Currently i'm occupying on **Cloud Solution Architecht Exam**
 
 - 💬 Ask me about **DevOps**
 
