@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Sukru Alev</h1>
-<h3 align="center">👩‍💻 I'm passionate ☁️ DevOps Engineer from Switzerland</h3>
+<h3 align="center">👩‍💻 I'm passionate Cloud Architect☁️ &  DevOps Engineer from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msukrualev&label=Profile%20views&color=0e75b6&style=flat" alt="msukrualev" /> </p>
 
