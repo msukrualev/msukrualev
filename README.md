@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Cloud & DevOps Projects*
 
-- 💬 Ask me about **Cloud & DevOps**
+- 💬 Ask me about **Cloud & DevOps & Data Analitics**
 
 - 📫 How to reach me **msukrualevgr@gmail.com**
 
