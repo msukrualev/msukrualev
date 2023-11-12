@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msukrualev&label=Profile%20views&color=0e75b6&style=flat" alt="msukrualev" /> </p>
 
-- 🔭 I'm currently working on **Cloud & DevOps Projects**
+- 🔭 I'm currently working on **SAP Analytics Cloud**
 
-- 💬 Ask me about **Cloud & DevOps**
+- 💬 Ask me about **Cloud & DevOps & SAP**
 
 - 📫 How to reach me **msukrualevgr@gmail.com**
 
