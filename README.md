@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **msukrualevgr@gmail.com**
 
-- ⚡ Constantly seeking new things to learn is my lifestyle 
+- ⚡ Constantly seeking new things to learn is my lifestyle. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
